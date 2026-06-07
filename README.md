@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ZyluxXD/ZyluxXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=why%20hello%20there&section=header&reversal=false&textBg=false&fontSize=50&animation=fadeIn" />
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+random+things+that+somehow+work;Self-hosting+chaos;01101000+01100001+01101000+01100001" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+```txt
+╭─ zylux@github ~/profile
+│
+├─ whoami
+│  ├─ builder of weird projects
+│  ├─ ai / robotics / automation / self-hosting
+│  └─ probably debugging something that worked yesterday
+│
+├─ projects
+│  ├─ 📞 zerobypass     :: human-like typing simulator
+│  ├─ 👾 tachyon        :: all-in-one customizable honeypot
+│  ├─ 🌐 homelab        :: self-hosted things + automation
+│  └─ + 99 other random things
+│
+╰─ status: building even more random things
+```
+## stack/skills
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,nodejs,pnpm,astro,docker,raspberrypi,linux,git,github,notion,vscode,idea,neovim,cloudflare" />  </div>
+
+## activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZyluxXD/ZyluxXD/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+## random quotes
+<img src='https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2500&color=58A6FF&center=true&vCenter=true&width=900&lines="why+does+openclaw+have+more+github+stars+than+the+linux+kernel";"this+readme+is+cool+right+.+.+.+.+.+.+.+.+.+.+.+.+.+.+right?";"someone+fix+npm+pls";"another+day%2C+another+supply+chain+attack...";"%3Eboots+windows+%3Ecopilot+opens+without+consent+%3E%2Bragebait";"but+it+works+on+my+computer";"%3Efinds+cool+repo+%3Elooks+inside+%3Eclaude+code+is+a+contributer"'/>
+<br><br>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=ZyluxXD&style=for-the-badge&color=58A6FF" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer&reversal=true&animation=blinking" />
