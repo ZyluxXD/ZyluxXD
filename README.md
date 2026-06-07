@@ -35,10 +35,8 @@
 ## Random Quotes
 <img src='https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2500&color=58A6FF&center=true&vCenter=true&width=900&lines="why+does+openclaw+have+more+github+stars+than+the+linux+kernel";"this+readme+is+cool+right+.+.+.+.+.+.+.+.+.+.+.+.+.+.+right?";"someone+fix+npm+pls";"another+day%2C+another+supply+chain+attack...";"%3Eboots+windows+%3Ecopilot+opens+without+consent+%3E%2Bragebait";"but+it+works+on+my+computer";"%3Efinds+cool+repo+%3Elooks+inside+%3Eclaude+code+is+a+contributer"'/>
 
-<br>
-
 ---
-<br><br>
+<br>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=ZyluxXD&style=for-the-badge&color=58A6FF" />
 
