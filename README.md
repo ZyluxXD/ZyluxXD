@@ -24,17 +24,22 @@
 │
 ╰─ status: building even more random things
 ```
-## stack/skills
+## Stack/Skills
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,nodejs,pnpm,astro,docker,raspberrypi,linux,git,github,notion,vscode,idea,neovim,cloudflare" />  </div>
 
-## activity
+## Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZyluxXD/ZyluxXD/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ZyluxXD/ZyluxXD/refs/heads/output/github-snake-dark.svg" />
 </p>
 
-## random quotes
+## Random Quotes
 <img src='https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2500&color=58A6FF&center=true&vCenter=true&width=900&lines="why+does+openclaw+have+more+github+stars+than+the+linux+kernel";"this+readme+is+cool+right+.+.+.+.+.+.+.+.+.+.+.+.+.+.+right?";"someone+fix+npm+pls";"another+day%2C+another+supply+chain+attack...";"%3Eboots+windows+%3Ecopilot+opens+without+consent+%3E%2Bragebait";"but+it+works+on+my+computer";"%3Efinds+cool+repo+%3Elooks+inside+%3Eclaude+code+is+a+contributer"'/>
+
+<br>
+
+---
 <br><br>
+
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=ZyluxXD&style=for-the-badge&color=58A6FF" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer&reversal=true&animation=blinking" />
